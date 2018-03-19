@@ -1,0 +1,15 @@
+Index: app/src/main/res/layout/activity_main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_main.xml	(date 1521441704000)
++++ app/src/main/res/layout/activity_main.xml	(revision )
+@@ -13,6 +13,7 @@
+         android:id="@+id/button1"/>
+     <Button
+         android:layout_width="wrap_content"
++
+         android:layout_height="wrap_content"
+         android:text="View List"
+         android:id="@+id/button2"/>
