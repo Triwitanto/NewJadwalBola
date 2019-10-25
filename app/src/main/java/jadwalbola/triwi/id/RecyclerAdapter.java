@@ -1,4 +1,4 @@
-package jadwalbola.triwi.id.jadwalbola;
+package jadwalbola.triwi.id;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -8,6 +8,8 @@ import android.widget.TextView;
 
 
 import java.util.ArrayList;
+
+import jadwalbola.triwi.id.jadwalbola.R;
 
 /**
  * Created by TRW on 3/13/2018.

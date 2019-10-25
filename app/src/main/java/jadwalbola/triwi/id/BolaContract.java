@@ -1,4 +1,4 @@
-package jadwalbola.triwi.id.jadwalbola;
+package jadwalbola.triwi.id;
 
 /**
  * Created by TRW on 3/11/2018.

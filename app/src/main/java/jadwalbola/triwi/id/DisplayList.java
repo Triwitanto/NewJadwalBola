@@ -1,4 +1,4 @@
-package jadwalbola.triwi.id.jadwalbola;
+package jadwalbola.triwi.id;
 
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
@@ -8,6 +8,8 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
 import java.util.ArrayList;
+
+import jadwalbola.triwi.id.jadwalbola.R;
 
 public class DisplayList extends AppCompatActivity {
     RecyclerView recyclerView;

@@ -1,4 +1,4 @@
-package jadwalbola.triwi.id.jadwalbola;
+package jadwalbola.triwi.id;
 
 import android.app.ProgressDialog;
 import android.content.Context;
